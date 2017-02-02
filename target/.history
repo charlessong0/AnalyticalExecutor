@@ -1,7 +1,0 @@
-compile
-exit
-compile
-test:compile
-assembly
-package
-exit
