@@ -1,8 +1,5 @@
 import org.apache.spark.{SparkContext, SparkConf}
 
-/**
-  * Created by Giri R Varatharajan on 9/8/2015.
-  */
 object WordCountApp {
   def main(args:Array[String]) : Unit = {
     System.setProperty("hadoop.home.dir", "D:\\hadoop\\hadoop-common-2.2.0-bin-master\\")
