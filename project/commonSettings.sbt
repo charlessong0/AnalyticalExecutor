@@ -1,0 +1,1 @@
+val description = "this is the common setting file for the upcoming multiple modules"
